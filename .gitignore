@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+code-record/*
+!.gitkeep
+*.py[cod]
+*$py.class
+.vscode/
+.idea/
+*fund_morning_star.csv
+
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+venv
+build/
+develop-eggs/
+dist/
